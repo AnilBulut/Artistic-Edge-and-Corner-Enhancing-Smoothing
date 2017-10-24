@@ -1,6 +1,3 @@
-%we took this code from the author of paper Artistic Edge and Corner Enhancing Smoothing
-%we analyzed this code and we made small changes
-%this is the address of  code : http://www.cs.rug.nl/~imaging/artisticsmoothing/guide.html
 
 %reading image
 name='ata.jpg';
