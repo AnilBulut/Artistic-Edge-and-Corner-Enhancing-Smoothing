@@ -1,8 +1,8 @@
--You should put ".m" files and source image in the same path.
+-Put ".m" files and source image in the same path.
 
--You should write related source image name the smoothing.m manually. 
+-Write the name of image to smoothing.m's 6th line manually. 
 
--You should run program when you are on “smoothing.m” tab.
+-Run program when you are on “smoothing.m” tab.
 
 -You can change the related parameters inside of smoothing.m manually.
 
